@@ -50,7 +50,7 @@ Edit the WiFi credentials in the code to match your network then in the Python s
      - Save as `main.py`
 
 5. Running the project:
-   - After saving `main.py`, simply power up your Pico W
+   - After saving `main.py`, power up your Pico W
    - The display will show:
      - '----' (test pattern)
      - Then the current exchange rate
