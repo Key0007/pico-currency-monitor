@@ -10,8 +10,8 @@ A Raspberry Pi Pico W project that displays live currency exchange rates on a TM
 
 ## Connections
 
-1. TM1637 CLK → Pico GP0
-2. TM1637 DIO → Pico GP1
+1. TM1637 CLK → Pico GP1
+2. TM1637 DIO → Pico GP2
 3. TM1637 VCC → Pico 3.3V
 4. TM1637 GND → Pico GND
 
