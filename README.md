@@ -1,6 +1,6 @@
 # pico-currency-monitor
 
-A Raspberry Pi Pico W project that displays live currency exchange rates on a TM1637 4-digit display. Currently configured for USD/EUR pair.
+A Raspberry Pi Pico W project that tracks live currency exchange rates on a TM1637 4-digit display. Currently configured for USD/EUR pair.
 
 ## Hardware Required
 
