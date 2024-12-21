@@ -15,24 +15,29 @@ A Raspberry Pi Pico W project that displays live currency exchange rates on a TM
 3. TM1637 VCC → Pico 3.3V
 4. TM1637 GND → Pico GND
 
+## Pinout
+
+![image](https://github.com/user-attachments/assets/2cc58ca8-9846-4827-abcc-73da95a49def)
+
+
 ## Setup
 
 1. Get your Pico W ready:
 
--Hold the BOOTSEL button on your Pico W
--While holding, plug the USB cable into your computer
--Release the button after connecting
+- Hold the BOOTSEL button on your Pico W
+- While holding, plug the USB cable into your computer
+- Release the button after connecting
 
 2. Install MicroPython:
 
--Your Pico should appear as a USB drive on your computer
--Download the latest MicroPython firmware (.uf2 file) from Raspberry Pi's official [site](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
--Drag and drop the .uf2 file onto the Pico drive
--The Pico will automatically restart when the file transfer is complete
+- Your Pico should appear as a USB drive on your computer
+- Download the latest MicroPython firmware (.uf2 file) from Raspberry Pi's official [site](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+- Drag and drop the .uf2 file onto the Pico drive
+- The Pico will automatically restart when the file transfer is complete
 
 3. Install tm1637 library
 
-In the Python shell/REPL run `install_TM1637.py`. This will install the library on Pico.
+Edit the WiFi credentials in the code to match your network then in the Python shell/REPL, run `install_TM1637.py`. This will install the library on Pico.
 
 4. Upload the code:
    - Download `main.py` from this repository
