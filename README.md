@@ -17,7 +17,8 @@ A Raspberry Pi Pico W project that displays live currency exchange rates on a TM
 
 ## Pinout
 
-[![image](https://github.com/user-attachments/assets/2cc58ca8-9846-4827-abcc-73da95a49def)](https://www.raspberrypi.com/documentation/microcontrollers/images/pico-2-r4-pinout.svg)
+![image](https://github.com/user-attachments/assets/0dbf1a46-9f78-4ba0-a7f4-ad30bc4eaf4a)
+
 
 
 ## Setup
