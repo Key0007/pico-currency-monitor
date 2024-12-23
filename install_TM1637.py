@@ -2,7 +2,6 @@ import mip
 import network   
 import urequests 
 import ure as re
-import gc
 
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
